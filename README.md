@@ -1,4 +1,4 @@
-## Mariona
+## Mariona Nadal
 
 - 👋 Hi, I’m @MarionaEEP
 - 👀 I’m interested in ...
