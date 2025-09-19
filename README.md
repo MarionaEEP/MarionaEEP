@@ -1,4 +1,4 @@
-## Mariona Nadal
+# Mariona Nadal
 
 - 👋 Hi, I’m @MarionaEEP
 - 👀 I’m interested in teaching programming
